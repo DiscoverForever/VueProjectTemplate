@@ -16,8 +16,8 @@
     "vuex": "^2.2.1",
     "axios": "^0.15.3",
     "mint-ui": "^2.2.0",
-    "lean-storage": "^2.5.0",
-    "lean-realtime": "^3.4.1"
+    "leancloud-storage": "^2.5.0",
+    "leancloud-realtime": "^3.4.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
