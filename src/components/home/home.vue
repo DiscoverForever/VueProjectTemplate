@@ -8,7 +8,7 @@
       this.create();
       this.query();
       this.update();
-      this.delete();
+//      this.delete();
     },
     methods: {
       create() {

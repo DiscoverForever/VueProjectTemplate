@@ -1,11 +1,11 @@
 import AV from 'leancloud-storage';
 export class TestBase extends AV.Object {
   set name(name) {
-    this._name = name;
+    this.set('name', name);
   }
 
   get name() {
-    return this._name;
+    return this.get('name');
   }
 }
 
